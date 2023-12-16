@@ -10,6 +10,8 @@ A simple Bash script to transform a PDF into PNG files and then merge them all a
 
 - pdftoppm
 - ImageMagick
+- ExifTool
+- QPDF
 
 ## License
 
